@@ -45,3 +45,7 @@ Load obstacle ke dalam spawner pada scene level2
 
 ![image](https://github.com/AryaDK153/godot-tutorial-4/assets/112199564/5fbb964b-f004-47e4-b1b8-e6cdd39bc5e1)
 
+# Extra
+## Credits
+LoseScreen music: "Spider-Man: Across the Spiderverse - Miguel's Theme"
+WinScreen video: "[AC FisherP - \[Arknights\] Toothless Dancing but I learned how to train my dragon in Terra.v=LYlMTONa-hk](https://www.youtube.com/watch?v=LYlMTONa-hk)"
