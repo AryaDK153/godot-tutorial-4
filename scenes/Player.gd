@@ -20,7 +20,7 @@ func get_input():
 
 
 func _physics_process(_delta):
-	velocity.y += delta * GRAVITY
+	velocity.y += _delta * GRAVITY
 	get_input()
 	velocity = move_and_slide(velocity, UP)
 
@@ -36,3 +36,8 @@ func _process(_delta):
 			$Sprite.flip_h = true
 	else:
 		$Animator.play("Idle")
+
+
+func _on_Barnacle_body_entered(body):
+	if body.get_name() == "Barnacle":
+		get_tree().change_scene("res://scenes/LoseScreen.tscn")

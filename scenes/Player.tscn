@@ -65,7 +65,7 @@ position = Vector2( 0, -25 )
 scale = Vector2( 0.5, 0.5 )
 texture = ExtResource( 2 )
 hframes = 4
-frame = 2
+frame = 3
 
 [node name="Animator" type="AnimationPlayer" parent="."]
 anims/Idle = SubResource( 2 )
@@ -73,4 +73,5 @@ anims/Jump = SubResource( 3 )
 anims/Walk = SubResource( 4 )
 
 [node name="Camera2D" type="Camera2D" parent="."]
+offset = Vector2( 300, 0 )
 current = true

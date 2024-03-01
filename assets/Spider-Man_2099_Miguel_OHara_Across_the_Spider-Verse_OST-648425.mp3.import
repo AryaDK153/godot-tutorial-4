@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Spider-Man_2099_Miguel_OHara_Across_the_Spider-Verse_OST-648425.mp3-5b04f701e3506915b22a7d1406fe0c3a.mp3str"
+
+[deps]
+
+source_file="res://assets/Spider-Man_2099_Miguel_OHara_Across_the_Spider-Verse_OST-648425.mp3"
+dest_files=[ "res://.import/Spider-Man_2099_Miguel_OHara_Across_the_Spider-Verse_OST-648425.mp3-5b04f701e3506915b22a7d1406fe0c3a.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

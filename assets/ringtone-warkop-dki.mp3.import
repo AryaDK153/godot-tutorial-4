@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/ringtone-warkop-dki.mp3-e0ddfc9ca48e367b718c3e557553bc59.mp3str"
+
+[deps]
+
+source_file="res://assets/ringtone-warkop-dki.mp3"
+dest_files=[ "res://.import/ringtone-warkop-dki.mp3-e0ddfc9ca48e367b718c3e557553bc59.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
