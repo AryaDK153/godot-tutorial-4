@@ -49,4 +49,4 @@ Load obstacle ke dalam spawner pada scene level2
 ## Credits
 LoseScreen music: "Spider-Man: Across the Spiderverse - Miguel's Theme"
 
-WinScreen video: "[AC FisherP - \[Arknights\] Toothless Dancing but I learned how to train my dragon in Terra.v=LYlMTONa-hk](https://www.youtube.com/watch?v=LYlMTONa-hk)"
+WinScreen video: "[AC FisherP - \[Arknights\] Toothless Dancing but I learned how to train my dragon in Terra](https://www.youtube.com/watch?v=LYlMTONa-hk)"
