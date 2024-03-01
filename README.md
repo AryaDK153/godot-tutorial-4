@@ -47,6 +47,6 @@ Load obstacle ke dalam spawner pada scene level2
 
 # Extra
 ## Credits
-LoseScreen music: "Spider-Man: Across the Spiderverse - Miguel's Theme"
+LoseScreen music: "(Spider-Man 2099 (Miguel O'Hara) | Spider-Man: Across the Spider-Verse (Original Score))[https://www.youtube.com/watch?v=OgD_TxzjniU]"
 
 WinScreen video: "[AC FisherP - \[Arknights\] Toothless Dancing but I learned how to train my dragon in Terra](https://www.youtube.com/watch?v=LYlMTONa-hk)"
